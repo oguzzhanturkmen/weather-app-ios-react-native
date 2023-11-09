@@ -4,6 +4,9 @@
 
 
 
+
+## Details
+
 1 - Used "https://www.weatherapi.com" to fetch the data. You can use it freely by signing-up.
 2 - 
 
