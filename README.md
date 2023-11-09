@@ -1,6 +1,8 @@
 # Weather App - iOS - React Native
 
-https://user-images.githubusercontent.com/111460897/281582054-8c17b9a9-1ce0-47c3-b566-1b1c1dbb8b73.png
+<img width="689" alt="AppSS" src="https://github.com/oguzzhanturkmen/weather-app-ios-react-native/assets/111460897/ba272a82-7ec6-40c1-a1a1-81826ee2d9c8">
+
+
 
 1 - Used "https://www.weatherapi.com" to fetch the data. You can use it freely by signing-up.
 2 - 
